@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "umi-tools build",
