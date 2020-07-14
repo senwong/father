@@ -1,5 +1,5 @@
 {
-  "name": "father-build",
+  "name": "@senwong/father-build",
   "version": "1.18.2",
   "description": "Library build tool based on rollup.",
   "main": "lib/index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "father",
+  "name": "@senwong/father",
   "version": "2.29.6",
   "description": "Library toolkit based on rollup, docz, storybook, jest and eslint.",
   "homepage": "http://github.com/umijs/father",
